@@ -1,0 +1,37 @@
+
+#chirp-form {
+    max-height: 250px;
+}
+
+#input-card-wrapper {
+    width: 60vw ;
+}
+
+body,
+#app-wrapper{
+    height: 100%;
+    background-color: rgb(212, 245, 243);
+    width: 100%;
+    
+}
+
+/* #post-input {
+    
+} */
+#posts-card {
+    box-sizing: border-box;
+    background-color: rgb(187, 144, 228);
+    min-height: fit-content;
+    height: 15vh;
+    width: 45vw;
+    /* float: left !important; */
+    
+    /* width: fit-content; */
+ 
+    /* margin: 5vh 10vw; */
+    
+}
+
+.posts-section {
+    width: 50vh;
+}
